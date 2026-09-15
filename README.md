@@ -27,10 +27,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-**Фронтенд (для полного стека)**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -48,21 +44,6 @@
 Асинхронный API для работы с категориями Wildberries. Планировщик синхронизации.
 `FastAPI` `SQLAlchemy` `PostgreSQL` `Async`
 
-### 💬 [ChatBotRemember](https://github.com/EvgenySkorik/ChatBotRemember)
-Телеграм-бот с FastAPI-бэкендом. JWT-авторизация, асинхронность, Docker.
-`FastAPI` `PostgreSQL` `JWT` `Docker` `SQLAlchemy`
-
-### 🤖 [ChatBotGigaAI](https://github.com/EvgenySkorik/ChatBotGigaAI)
-Чат-бот на Streamlit с GigaChat API. Генерация текста и изображений.
-`Python` `Streamlit` `GigaChat API` `AI`
-
-### 🏢 [CRMDjangoService](https://github.com/EvgenySkorik/CRMDjangoService)
-CRM-система с ролями, CRUD и статистикой.
-`Django` `PostgreSQL` `Docker`
-
-### 📝 [microblog-service](https://github.com/EvgenySkorik/microblog-service)
-Микросервис микроблогов. Твиты, подписки, медиа.
-`FastAPI` `PostgreSQL` `Docker` `Async`
 
 ### 🎨 [Art_room_tg_bot](https://github.com/EvgenySkorik/Art_room_tg_bot)
 Телеграм-бот для дизайн-студии. Портфолио, услуги, заявки.
@@ -80,8 +61,8 @@ CRM-система с ролями, CRUD и статистикой.
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:твой@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@Evgeny_SK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3653444@bk.ru)
 
 ---
 
