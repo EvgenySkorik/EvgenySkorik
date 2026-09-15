@@ -1,16 +1,79 @@
-## Hi there 👋
+Evgeny Skorik
+Python Backend Developer
 
-<!--
-**EvgenySkorik/EvgenySkorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend services and REST APIs with Python, focusing on scalable architecture, databases, asynchronous processing and containerized applications.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · FastAPI · Django · Django REST Framework
+
+Databases & ORM
+
+PostgreSQL · SQLAlchemy · Redis
+
+Asynchronous & Background Processing
+
+Async Programming · Celery
+
+API & Security
+
+REST API · JWT · Authentication & Authorization
+
+Testing
+
+Pytest
+
+DevOps & Infrastructure
+
+Docker · Docker Compose · Nginx · Linux · CI/CD
+
+Tools
+
+Git
+
+🚀 Selected Projects
+CRMDjangoService
+
+CRM system with authentication, role-based access, CRUD operations and statistics.
+
+Django 6 · PostgreSQL · Docker
+
+wb-categories-api
+
+Asynchronous API for working with Wildberries categories with scheduled data synchronization.
+
+FastAPI · PostgreSQL · AsyncIO
+
+ChatBotRemember
+
+Telegram bot for saving and managing messages with a FastAPI backend.
+
+FastAPI · PostgreSQL · JWT · Docker
+
+megano-store
+
+E-commerce backend developed as a graduation project.
+
+Django · Django REST Framework · PostgreSQL · Docker
+
+💡 Backend Focus
+REST API development
+Django & FastAPI applications
+PostgreSQL database design
+SQLAlchemy and ORM
+Asynchronous Python
+Background tasks with Celery
+Authentication & authorization with JWT
+Automated testing with Pytest
+Dockerized applications
+Nginx & Linux
+CI/CD
+Service-oriented architecture
+📈 Currently
+
+Deepening my expertise in Python backend development, system architecture, asynchronous services and production-ready infrastructure.
+
+📫 Contact
+
+GitHub: EvgenySkorik
