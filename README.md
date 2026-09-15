@@ -1,79 +1,88 @@
-Evgeny Skorik
-Python Backend Developer
+# Привет, я Евгений 👋
 
-I build backend services and REST APIs with Python, focusing on scalable architecture, databases, asynchronous processing and containerized applications.
+**Python Backend Developer** · FastAPI · Django · PostgreSQL · Docker
 
-🛠 Tech Stack
-Backend
+Пишу асинхронные API, телеграм-ботов и микросервисы. Люблю чистую архитектуру, Docker и когда всё работает.
 
-Python · FastAPI · Django · Django REST Framework
+---
 
-Databases & ORM
+## 🛠 Стек
 
-PostgreSQL · SQLAlchemy · Redis
+**Языки и фреймворки**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-Asynchronous & Background Processing
+**Базы данных и очереди**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Async Programming · Celery
+**Инфраструктура**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-API & Security
+**Фронтенд (для полного стека)**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-REST API · JWT · Authentication & Authorization
+---
 
-Testing
+## 🚀 Избранные проекты
 
-Pytest
+### 🎬 [episodio](https://github.com/EvgenySkorik/episodio)
+Личный кино-трекер для VK. Асинхронный бэкенд, кеширование, мониторинг.
+`Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `Grafana` `Prometheus`
 
-DevOps & Infrastructure
+### 🛒 [megano-store](https://github.com/EvgenySkorik/megano-store)
+Дипломный проект интернет-магазина. Полный стек: бэкенд + фронтенд + инфраструктура.
+`Django` `DRF` `Vue.js` `Docker` `PostgreSQL`
 
-Docker · Docker Compose · Nginx · Linux · CI/CD
+### 📊 [wb-categories-api](https://github.com/EvgenySkorik/wb-categories-api)
+Асинхронный API для работы с категориями Wildberries. Планировщик синхронизации.
+`FastAPI` `SQLAlchemy` `PostgreSQL` `Async`
 
-Tools
+### 💬 [ChatBotRemember](https://github.com/EvgenySkorik/ChatBotRemember)
+Телеграм-бот с FastAPI-бэкендом. JWT-авторизация, асинхронность, Docker.
+`FastAPI` `PostgreSQL` `JWT` `Docker` `SQLAlchemy`
 
-Git
+### 🤖 [ChatBotGigaAI](https://github.com/EvgenySkorik/ChatBotGigaAI)
+Чат-бот на Streamlit с GigaChat API. Генерация текста и изображений.
+`Python` `Streamlit` `GigaChat API` `AI`
 
-🚀 Selected Projects
-CRMDjangoService
+### 🏢 [CRMDjangoService](https://github.com/EvgenySkorik/CRMDjangoService)
+CRM-система с ролями, CRUD и статистикой.
+`Django` `PostgreSQL` `Docker`
 
-CRM system with authentication, role-based access, CRUD operations and statistics.
+### 📝 [microblog-service](https://github.com/EvgenySkorik/microblog-service)
+Микросервис микроблогов. Твиты, подписки, медиа.
+`FastAPI` `PostgreSQL` `Docker` `Async`
 
-Django 6 · PostgreSQL · Docker
+### 🎨 [Art_room_tg_bot](https://github.com/EvgenySkorik/Art_room_tg_bot)
+Телеграм-бот для дизайн-студии. Портфолио, услуги, заявки.
+`Python` `pyTelegramBotAPI`
 
-wb-categories-api
+---
 
-Asynchronous API for working with Wildberries categories with scheduled data synchronization.
+## 📈 Статистика
 
-FastAPI · PostgreSQL · AsyncIO
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenySkorik&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-ChatBotRemember
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenySkorik&layout=compact&theme=dark&hide_border=true)
 
-Telegram bot for saving and managing messages with a FastAPI backend.
+---
 
-FastAPI · PostgreSQL · JWT · Docker
+## 📫 Связаться со мной
 
-megano-store
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:твой@email.com)
 
-E-commerce backend developed as a graduation project.
+---
 
-Django · Django REST Framework · PostgreSQL · Docker
-
-💡 Backend Focus
-REST API development
-Django & FastAPI applications
-PostgreSQL database design
-SQLAlchemy and ORM
-Asynchronous Python
-Background tasks with Celery
-Authentication & authorization with JWT
-Automated testing with Pytest
-Dockerized applications
-Nginx & Linux
-CI/CD
-Service-oriented architecture
-📈 Currently
-
-Deepening my expertise in Python backend development, system architecture, asynchronous services and production-ready infrastructure.
-
-📫 Contact
-
-GitHub: EvgenySkorik
+> «Код — это поэзия. Просто с отступами и без рифмы.»
