@@ -2,7 +2,7 @@
 
 **Python Backend Developer** · FastAPI · Django · PostgreSQL · Docker
 
-Пишу асинхронные API, телеграм-ботов и микросервисы. Люблю чистую архитектуру, Docker и когда всё работает.
+Пишу асинхронные API, телеграм-ботов и микросервисы. Люблю чистую архитектуру и когда всё работает!
 
 ---
 
@@ -51,11 +51,6 @@
 
 ---
 
-## 📈 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenySkorik&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenySkorik&layout=compact&theme=dark&hide_border=true)
 
 ---
 
