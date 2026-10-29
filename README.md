@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Стек
+## <img src="images/stack.png" width="35" align="absmiddle" /> Стек
 
 **Языки и фреймворки**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -53,15 +53,16 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C4A6E?style=flat-square&logo=oauth&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 `AI-интеграция:` OpenAI-compatible API · LM Studio · OpenRouter · Prompt Engineering  
 `AI-ассистенты:` DeepSeek · QwenCoder · AI-assisted Development  
-`Архитектура:` Clean Architecture · Repository · Unit of Work · DI  
-`Данные:` pandas · Google Sheets API
+`Архитектура:` Clean Architecture · Repository · Unit of Work · DI
 
 ---
 
-## 🚀 Избранные проекты
+## <img src="images/rocket.png" width="35" align="absmiddle" /> Избранные проекты
 
 ### <img src="images/logo_episodio.jpg" width="28" align="center" /> [episodio](https://github.com/EvgenySkorik/episodio)
 Личный кино-трекер для VK. Асинхронный бэкенд, кеширование, мониторинг.  
@@ -81,7 +82,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="images/github.png" width="55" align="absmiddle" /> GitHub Stats
 
 <div align="center">
 
@@ -92,7 +93,7 @@
 
 ---
 
-## 📫 Связаться со мной
+## <img src="images/brown-message-bottle.png" width="55" align="absmiddle" /> Связаться со мной
 
 <div align="center">
 
